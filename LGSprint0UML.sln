@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LG Sprint 0 UML Warm Up", "LG Sprint 0 UML Warm Up\LG Sprint 0 UML Warm Up.csproj", "{0A892913-0723-4E20-98D2-84C62806CA8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGSprint0UML", "LG Sprint 0 UML Warm Up\LGSprint0UML.csproj", "{0A892913-0723-4E20-98D2-84C62806CA8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
