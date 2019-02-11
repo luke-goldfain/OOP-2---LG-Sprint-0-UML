@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>LG_Sprint_0_UML_Warm_Up</RootNamespace>
+    <TargetFramework>net461</TargetFramework>
+    <RootNamespace>LGSprint0UML</RootNamespace>
   </PropertyGroup>
 
 </Project>
