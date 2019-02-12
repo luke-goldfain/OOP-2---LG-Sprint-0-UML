@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LGSprint0UML
 {
-    internal class Engine
+    public class Engine
     {
         public bool IsStarted = false;
 

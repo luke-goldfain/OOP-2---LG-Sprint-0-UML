@@ -4,12 +4,12 @@ using System.Text;
 
 namespace LGSprint0UML
 {
-    abstract class AerialVehicle
+    public abstract class AerialVehicle
     {
         public int CurrentAltitude;
-        protected Engine Engine;
-        protected bool IsFlying;
-        protected int MaxAltitude;
+        public Engine Engine;
+        public bool IsFlying;
+        public int MaxAltitude;
         // Variable added to allow each inheritor to set their own fly height (airplane's is 1000)
         protected int defaultFlyHeight;
 
